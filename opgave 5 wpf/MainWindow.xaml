@@ -13,6 +13,5 @@
         <Label Content="Password" HorizontalAlignment="Left" Margin="193,187,0,0" VerticalAlignment="Top" Height="40" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20"/>
         <TextBox x:Name="validate" Text=" " HorizontalAlignment="Left" Margin="562,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="84" FontSize="18" BorderThickness="0"/>
         <Button x:Name="validatePassword" Content="create password" FontSize="18" HorizontalAlignment="Center" Margin="0,297,0,0" VerticalAlignment="Top" Height="41" Width="172" Click="validatePassword_Click"/>
-        <ProgressBar HorizontalAlignment="Left" Height="12" Margin="305,79,0,0" VerticalAlignment="Top" Width="249"/>
     </Grid>
 </Window>
